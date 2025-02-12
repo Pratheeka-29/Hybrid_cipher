@@ -66,17 +66,17 @@ Rail Fence Depth: 3
 ### **Encryption Steps:**
 **Caesar Cipher Output:**
 ```bash
-KHOORK\EULG
+KRUHOKELOBG
 ```
 **Rail Fence Cipher Output (Final Encrypted Text):**
 ```bash
-KR\OKLHUROGE
+KRUHOKELOBG
 ```
 
 ### **Decryption Steps:**
 **Rail Fence Decryption Output:**
 ```bash
-KHOORK\EULG
+HELLOHYBRID
 ```
 **Caesar Decryption Output (Final Decrypted Text):**
 ```bash
